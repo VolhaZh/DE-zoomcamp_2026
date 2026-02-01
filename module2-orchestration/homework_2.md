@@ -16,9 +16,9 @@ To get a `wget`-able link, use this prefix (note that the link itself gives 404)
 
 So far in the course, we processed data for the year 2019 and 2020. Your task is to extend the existing flows to include data for the year 2021.
 
-![homework datasets](../../../02-workflow-orchestration/images/homework.png)
+![manual_airflow](https://github.com/VolhaZh/DE-zoomcamp_2026/blob/main/module2-orchestration/images/AIRFLOW.png)
 
-
+![clickhouse_tables](https://github.com/VolhaZh/DE-zoomcamp_2026/blob/main/module2-orchestration/images/CLICKHOUSE.png)
 
 ### Quiz Questions
 
@@ -31,7 +31,7 @@ Complete the quiz shown below. It's a set of 6 multiple-choice questions to test
 - 692.6 MiB
 
 ### Answer: - 128.3 MiB
-![answer](https://github.com//VolhaZh/DE-zoomcamp_2026/blob/main/module2-orchestration/images/Task_1.png)
+![answer](https://github.com/VolhaZh/DE-zoomcamp_2026/blob/main/module2-orchestration/images/Task_1.png)
 
 2) What is the rendered value of the variable `file` when the inputs `taxi` is set to `green`, `year` is set to `2020`, and `month` is set to `04` during execution?
 - `{{inputs.taxi}}_tripdata_{{inputs.year}}-{{inputs.month}}.csv` 
